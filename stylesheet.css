@@ -97,3 +97,11 @@ footer{
     padding: 20px;
     text-align: center;
 }
+
+.bnt-1:hover{
+    background-color: rgb(8, 57, 104);
+}
+
+.bnt-2:hover{
+    background-color: rgb(179, 178, 178);
+}
